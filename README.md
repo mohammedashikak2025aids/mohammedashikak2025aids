@@ -1,7 +1,8 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&height=100&lines=Mohammed+Ashik+AK" alt="Name"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Ashik%20AK&fontSize=50&fontColor=fff&fontAlignY=35" width="100%"/>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+AI+%26+Data+Science+Student;IoT+Builder+%7C+Embedded+Systems;Python+%26+ML+Enthusiast;UI%2FUX+Designer" alt="Typing SVG"/>
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ashik+%F0%9F%91%8B;B.Tech+AI+%26+Data+Science+Student;IoT+%7C+Embedded+Systems+Builder;UI%2FUX+%2B+Python+Enthusiast" alt="Typing SVG" />
 </div>
