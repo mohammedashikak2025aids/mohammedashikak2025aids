@@ -113,7 +113,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohammedashikak2025aids&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mohammedashikak2025aids&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
