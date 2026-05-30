@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashikmohammedcode&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mohammedashikak2025aids&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
