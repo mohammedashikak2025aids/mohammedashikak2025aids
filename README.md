@@ -82,10 +82,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/ashikmohammedcode">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashikmohammedcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedashikak2025aids&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/ashikmohammedcode">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikmohammedcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedashikak2025aids&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -102,7 +102,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashikmohammedcode&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedashikak2025aids theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -110,7 +110,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashikmohammedcode&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedashikak2025aids&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -121,10 +121,10 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| 🌡️ [**Factory Temperature Control System**](https://github.com/ashikmohammedcode) | ESP32 · C · Sensors | IoT system that monitors factory temperature and auto-adjusts cooling mechanisms when thresholds are exceeded |
-| 🌿 [**Plant Care Assistance System**](https://github.com/ashikmohammedcode) | Arduino · ESP32 · Sensors | Smart plant monitor tracking soil moisture, temperature & humidity; sends alerts when plants need care |
-| 🌦️ [**Weather Monitoring System**](https://github.com/ashikmohammedcode) | ESP32 · C · DHT Sensor | Real-time environmental data collection (temp & humidity) with remote monitoring capability |
-| 🌐 [**Personal Portfolio Website**](https://github.com/ashikmohammedcode) | HTML · CSS · UI/UX | Clean, responsive portfolio with modern UI/UX principles, accessible across all devices |
+| 🌡️ [**Factory Temperature Control System**](https://github.com/mohammedashikak2025aids) | ESP32 · C · Sensors | IoT system that monitors factory temperature and auto-adjusts cooling mechanisms when thresholds are exceeded |
+| 🌿 [**Plant Care Assistance System**](https://github.com/mohammedashikak2025aids) | Arduino · ESP32 · Sensors | Smart plant monitor tracking soil moisture, temperature & humidity; sends alerts when plants need care |
+| 🌦️ [**Weather Monitoring System**](https://github.com/mohammedashikak2025aids) | ESP32 · C · DHT Sensor | Real-time environmental data collection (temp & humidity) with remote monitoring capability |
+| 🌐 [**Personal Portfolio Website**](https://github.com/mohammedashikak2025aids) | HTML · CSS · UI/UX | Clean, responsive portfolio with modern UI/UX principles, accessible across all devices |
 
 </div>
 
@@ -175,9 +175,9 @@ print(me.motto())
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ashikps477%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashikps477@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ashikps477%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedashik.ak.2025.aids@rajalakshmi.edu.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashik--p--1-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-p-1)
-[![GitHub](https://img.shields.io/badge/GitHub-ashikmohammedcode-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashikmohammedcode)
+[![GitHub](https://img.shields.io/badge/GitHub-mohammedashikak2025aids-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashikmohammedcode)
 [![Phone](https://img.shields.io/badge/Phone-8825483346-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:8825483346)
 
 </div>
